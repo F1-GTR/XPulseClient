@@ -1,2 +1,2 @@
 # XPulseClient
-Client for register server status
+Client for registering server status
